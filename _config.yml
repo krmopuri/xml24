@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Deep Learning for Computer Vision
+course_description: "Computer vision deals with algorithmic analysis and understanding of the visual world via images and videos. It enjoys important role in various applications such as healthcasre, autonomy, security, entertainment, manufacturing, etc. Recent emergence of Deep learning has effected the field of computer vision significantly. Deep learning techniques have remarkably improved the performance of vision systems using large datasets. This course briefly introduces the traditional computer vision techniques before discussing the deep learning methods for computer vision. Starting with discussing the basics, the course coverss the recent advancements in the broad area of computer vision driven by deep learning. Students are expected to have done a course on Machine learning, preferably have some introduction to deep learning too."
+course_semester: "Aug-Nov 2022"
 
 baseurl: "/dl4cv" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "MFSDSAI, IITG"
+schoolurl: "https://www.iitg.ac.in/dsai/home"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Mehta Family School of Data Science and Artificial Intelligence
+    IIT Guwahati
+    India
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
