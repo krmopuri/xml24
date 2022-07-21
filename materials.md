@@ -13,5 +13,3 @@ To be updated.
 ## Additional Course Materials
 To be updated.
 
-<!-- * If you are not familiar with Python programming, use any online tutorial to get a handle of it. -->
-<!-- * [Material #1](http://www.example.com/): how a computer chess player thinks! -->
