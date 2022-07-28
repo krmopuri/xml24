@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-07-28
+date: 2022-07-29
 title: (dl4cv-0) Introduction
 
 # optional
