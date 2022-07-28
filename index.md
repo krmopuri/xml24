@@ -13,7 +13,7 @@ layout: home
 1. Object recognition, detection, semantic segmentation
 2. Vision and Language
 3. Generative models: GANs and VAEs 
-4. Recent trends (Attention, Transformers, few-shot, self and seupervised learning, etc.)
+4. Recent trends (Attention, Transformers, learning with limited supervision, etc.)
 
 ## Logistics
 
