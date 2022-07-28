@@ -19,7 +19,7 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                date_time = n.date.split(' ')[0]    
+                date_time = {{n.date.split(' ')[0]}}
                 {{ date_time }}: New Lecture is up: {{ n.title }}   <!-- KR added the date -->
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
