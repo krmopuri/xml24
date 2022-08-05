@@ -8,7 +8,7 @@ title: (dl4cv-2) Optimization
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Process of finding the best parameters.
+tldr: "Process of finding the best parameters."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
