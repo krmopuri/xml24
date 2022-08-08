@@ -25,3 +25,5 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---
+**Suggested Readings:**
+- [Python Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
