@@ -18,8 +18,8 @@ hide_from_announcments: false
 links: 
     #- url: /static_files/presentations/lec.zip
     #  name: notes
-    #- url: /static_files/presentations/code.zip
-    #  name: codes
+    #- url: https://colab.research.google.com/drive/18EibvwI6fcNPfzSucKjaaDVnxS7qN21Y?usp=sharing
+    #  name: NN-classifier code
     - url: /static_files/presentations/dl4cv-1.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
