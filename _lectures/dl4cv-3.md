@@ -5,7 +5,7 @@ title: (dl4cv-3) Neural Networks
 
 # optional
 # please use /static_files/notes directory to store notes
-# thumbnail: /static_files/path/to/image.jpg
+# thumbnail: /static_files/path/to/image.jpg https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf
 
 # optional
 tldr: "Into to NNs: Basic Artificial Neuron."
