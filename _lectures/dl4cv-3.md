@@ -19,7 +19,7 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: notes
     - url: https://colab.research.google.com/drive/1y6X4MnS3NNmYr3MthOYsGdpB-A3ixhzg?usp=sharing
-      name: perceptron code
+      name: perceptron-code
     - url: /static_files/presentations/dl4cv-3.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
