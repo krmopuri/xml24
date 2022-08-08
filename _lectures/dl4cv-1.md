@@ -8,7 +8,7 @@ title: (dl4cv-1) Image Classification
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Image Classification, a fundamental task of computer vision, introduction and a simple learning algorithm to solve it."
+tldr: "Image Classification, a fundamental task of computer vision and simple algorithms to solve it."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -19,7 +19,7 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: notes
     #- url: https://colab.research.google.com/drive/18EibvwI6fcNPfzSucKjaaDVnxS7qN21Y?usp=sharing
-    #  name: NN-classifier code
+    #  name: NN-classifier-code
     - url: /static_files/presentations/dl4cv-1.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
