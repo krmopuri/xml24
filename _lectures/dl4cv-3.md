@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-08-08
-title: (dl4cv-8) Neural Networks
+title: (dl4cv-3) Neural Networks
 
 # optional
 # please use /static_files/notes directory to store notes
