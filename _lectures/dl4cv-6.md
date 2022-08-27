@@ -25,3 +25,5 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---
+**Suggested Readings:**
+- [Simple CNN training](https://github.com/puzzler10/simple_pytorch_cnn/blob/master/cifar10_cnn.ipynb)
