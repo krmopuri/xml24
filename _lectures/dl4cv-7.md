@@ -31,3 +31,7 @@ links:
 - [Trimps-Soushen-1, Shao et al. ILSVRC 2016](https://www.youtube.com/watch?v=NaoVOOhVC3w)
 - [Trimps-Soushen-2, Shao et al. ILSVRC 2016](https://towardsdatascience.com/review-trimps-soushen-winner-in-ilsvrc-2016-image-classification-dfbc423111dd)
 - [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
+- [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+- [MobileNets](https://arxiv.org/abs/1704.04861)
+- [ShuffleNets](https://arxiv.org/abs/1707.01083)
+- [NAS](https://research.google/pubs/pub45826/)
