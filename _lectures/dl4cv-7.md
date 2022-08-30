@@ -25,3 +25,9 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---
+**Suggested Readings:**
+- [Analysis of DNN models for practical applications](https://arxiv.org/abs/1605.07678)
+- [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
+- [Trimps-Soushen-1, Shao et al. ILSVRC 2016](https://www.youtube.com/watch?v=NaoVOOhVC3w)
+- [Trimps-Soushen-2, Shao et al. ILSVRC 2016](https://towardsdatascience.com/review-trimps-soushen-winner-in-ilsvrc-2016-image-classification-dfbc423111dd)
+- [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
