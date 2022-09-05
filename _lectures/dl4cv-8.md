@@ -27,3 +27,5 @@ links:
 ---
 **Suggested Readings:**
 - [Xavier Initialization](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+- [Fixup Initialization: Residual learning without Normalization](https://openreview.net/forum?id=H1gsz30cKX)
+- [Dropout by Srivastave et al.](https://jmlr.org/papers/v15/srivastava14a.html)
