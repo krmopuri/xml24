@@ -16,8 +16,8 @@ hide_from_announcments: false
 
 # optional
 links: 
-    #- url: https://colab.research.google.com/drive/1i__UOd8nLu4GdKf9PoT_w3ORVvGcgQAq?usp=sharing
-    #  name: Tensor-basics-code
+    - url: /static_files/
+      name: Demo-update-rules/sgd_update_rules.gif
     - url: https://colab.research.google.com/drive/1__iXdKpepXortelx06I35RYfnu94Dg4t?usp=sharing
       name: Update rules implementation
     - url: /static_files/presentations/dl4cv-9.pdf
