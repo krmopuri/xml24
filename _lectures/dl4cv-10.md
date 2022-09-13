@@ -29,3 +29,4 @@ links:
 
 - [LSTM Hochreiter et al. 1997](http://www.bioinf.jku.at/publications/older/2604.pdf)
 - [Sequence to sequence learning by Sutskever et al. 2014](https://arxiv.org/abs/1409.3215)
+- [Neural Machine Translation with aligning by Bahdanau et al. ICLR 2015](https://arxiv.org/abs/1409.0473)
