@@ -26,3 +26,6 @@ links:
     #  name: other
 ---
 **Suggested Readings:**
+
+- [LSTM Hochreiter et al. 1997](http://www.bioinf.jku.at/publications/older/2604.pdf)
+- [Sequence to sequence learning by Sutskever et al. 2014](https://arxiv.org/abs/1409.3215)
