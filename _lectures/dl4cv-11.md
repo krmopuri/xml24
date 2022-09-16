@@ -25,3 +25,8 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: other
 ---
+
+**Suggested Readings:**
+- [Sequence to sequence learning by Sutskever et al. NeurIPS 2014](https://arxiv.org/abs/1409.3215)
+- [Neural Machine Translation with aligning by Bahdanau et al. ICLR 2015](https://arxiv.org/abs/1409.0473)
+- [Show Attend and Tell by Xu et al. 2015](https://arxiv.org/pdf/1502.03044.pdf) 
