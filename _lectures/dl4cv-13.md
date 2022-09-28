@@ -34,6 +34,6 @@ links:
 - [Grad-CAM by Selvaraju et al. NIPSW 2016, ICCV 2017](http://gradcam.cloudcv.org/)
 - [CNN-Fixations by Mopuri et al. TIP 2018](https://arxiv.org/abs/1708.06670)
 - [Texture Synthesis using CNNs by Gatys et al. NeurIPS 2015](https://arxiv.org/abs/1505.07376)
-- [Neural style transfer by Gatys et al. CVPR 2016](https://arxiv.org/abs/1409.0473](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+- [Neural style transfer by Gatys et al. CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 
 - [Understanding Deep Representations by Inverting them by A Mahendran et al. CVPR 2015](https://arxiv.org/abs/1412.0035)
 - [Inverting Visual Representations with CNNs by A Dosovitskiy et al. CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.pdf)- 
