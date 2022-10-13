@@ -32,3 +32,4 @@ links:
 - [SSD by Liu et al. ECCV 2016](https://github.com/weiliu89/caffe/tree/ssd)
 - [YOLO by Redmon et al. CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - [Comparison of CNN object detectors by Huang et al. CVPR 2017](https://arxiv.org/abs/1611.10012)
+- [CornerNet by Law et al. ECCV 2018](https://arxiv.org/abs/1808.01244)
