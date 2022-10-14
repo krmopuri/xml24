@@ -28,4 +28,3 @@ links:
 **Suggested Readings:**
 - [FCN by Long et al. CVPR 2015](https://arxiv.org/pdf/1411.4038.pdf)
 - [Deconvolution for semantic segmentation by Noh et al. ICCV 2015](https://arxiv.org/pdf/1505.04366.pdf)
-- [Faster R-CNN by Ren et al. NeurIPS 2015](https://arxiv.org/abs/1506.01497)
