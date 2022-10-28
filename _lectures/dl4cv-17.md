@@ -26,3 +26,5 @@ links:
     #  name: other
 ---
 **Suggested Readings:**
+- [Pixel RNN, Google DeepMind, ICML 2016](https://arxiv.org/pdf/1601.06759.pdf)
+- [Pixel CNN, Google DeepMind, NeurIPS 2016](https://arxiv.org/pdf/1606.05328.pdf)
