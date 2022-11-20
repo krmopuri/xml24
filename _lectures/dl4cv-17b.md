@@ -20,7 +20,7 @@ links:
     #  name: Tensor-basics-code
     #- url: https://colab.research.google.com/drive/1TwTX3QN2mp3JYvPgRIpUzkiHjKOA0aM_?usp=sharing
     #  name: Autograd-example-code
-    - url: static_files/presentations/dl4cv-17b.pdf
+    - url: /static_files/presentations/dl4cv-17b.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: other
