@@ -1,18 +1,18 @@
 # Site settings
-course_name: Deep Learning for Computer Vision
-course_description: "Computer vision deals with algorithmic analysis and understanding of the visual world via images and videos. It enjoys an important role in various applications such as healthcare, autonomy, security, entertainment, manufacturing, etc. The recent emergence of Deep learning has affected the field of computer vision significantly. Deep learning techniques have remarkably improved the performance of vision systems using large datasets. This course doesn't focus on the traditional computer vision techniques but discusses the deep learning methods for computer vision. Starting with the basics, the course covers the recent advancements in the area of computer vision driven by deep learning. Students are expected to have done a course on Machine learning, and preferably have some introduction to deep learning too."
-course_semester: "Aug-Nov 2022"
+course_name: Deep Learning
+course_description: "Course description goes here."
+course_semester: "Jan-May 2023"
 
-baseurl: "/dl4cv" # the subpath of your site, e.g. /blog/
+baseurl: "/dl" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
-schoolname: "MFSDSAI, IITG"
-schoolurl: "https://www.iitg.ac.in/dsai/home"
+schoolname: "Dept. of AI, IITH"
+schoolurl: "https://ai.iith.ac.in/"
 #twitter_username: username 
 
 address: |
-    Mehta Family School of Data Science and Artificial Intelligence
-    IIT Guwahati, India
+    Department of Artificial Intelligence
+    IIT Hyderabad, India
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
