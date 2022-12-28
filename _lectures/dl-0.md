@@ -12,7 +12,7 @@ tldr: "Introduction to computer vision and logistics of this course."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 # optional
 links: 
