@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2022-07-29
-title: (dl4cv-0) Introduction
+date: 2023-01-05
+title: (dl-0) Introduction
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Introduction to computer vision and logistics of this course."
+tldr: "Introduction to Deep Learning and logistics of this course."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
