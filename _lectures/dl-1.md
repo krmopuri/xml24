@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-01-04
-title: (dl-1) Artificial Neuron Models
+title: (dl-1) Artificial Neuron Models (MP neuron and Perceptron)
 
 # optional
 # please use /static_files/notes directory to store notes
