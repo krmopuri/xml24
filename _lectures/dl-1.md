@@ -28,3 +28,4 @@ links:
 
 **Suggested Readings:**
 - [Convergence proof for Perceptron](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs344+386-s2017/resources/classnote-1.pdf)
+- [MP Neuron](https://mind.ilstu.edu/curriculum/mcp_neurons/index.html) 
