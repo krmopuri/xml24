@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-01-09
-title: (dl-3) MLP: Representational Power of Networks of Neurons
+title: (dl-3) MLP - Representational Power of Networks of Neurons
 
 # optional
 # please use /static_files/notes directory to store notes
