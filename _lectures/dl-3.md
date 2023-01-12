@@ -28,3 +28,5 @@ links:
 
 **Suggested Readings:**
 
+- [Approximation by Superposition of Sigmoid Functions](https://web.njit.edu/~usman/courses/cs675_fall18/10.1.1.441.7873.pdf) 
+- [Chapter 4 of Michael Nielson's book](http://neuralnetworksanddeeplearning.com/chap4.html)
