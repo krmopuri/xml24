@@ -7,7 +7,7 @@ Starting from an artificial neuron model, the aim of this course is to understan
 
 ## Logistics
 
-**Class Room**: A-LH-1 (02.01.2023 to 15.01.2023 & 18.02.2023 to 02.05.2023), Auditorium (16.01.2023 to 17.02.2023)
+**Class Room**: A-LH-1 (02.01.2023 to 15.01.2023 & 18.02.2023 to 02.05.2023), B115 (16.01.2023 to 17.02.2023)
 
 **Timings**: Slot-B (Monday-10:00-10:55, Wednesday-09:00-09:55, Thursday-11:00-11:55)
 
