@@ -27,4 +27,4 @@ links:
 ---
 
 **Suggested Readings:**
-- [Paper by Hinton et al. that popularized backpropagation](https://www.nature.com/articles/323533a0)
+- [Paper by Rumelhart et al. that popularized backpropagation](https://www.nature.com/articles/323533a0)
