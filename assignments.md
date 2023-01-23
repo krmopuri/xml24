@@ -3,4 +3,4 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-Will be updated when required.
+Assignments are posted (and solutions are handed-over) in the Google classroom.
