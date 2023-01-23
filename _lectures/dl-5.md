@@ -8,7 +8,7 @@ title: (dl-5) Backpropagation-1
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Gradient Descent applied to MLP"
+tldr: "Gradient Descent applied to a simple computational graph"
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
