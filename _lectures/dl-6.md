@@ -8,7 +8,7 @@ title: (dl-6) Backpropagation-2
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Gradient Descent applied to MLP"
+tldr: "Gradient Descent applied to an MLP and more!"
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -27,4 +27,7 @@ links:
 ---
 
 **Suggested Readings:**
+
+- [Chap-2 from Michael Nielson's online book](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [Forward Forward Algorithm by Prof. Hinton](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
 
