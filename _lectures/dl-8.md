@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-01-30
+date: 2023-02-01
 title: (dl-8) Building Blocks of CNNs
 
 # optional
