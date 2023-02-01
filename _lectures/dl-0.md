@@ -27,8 +27,8 @@ links:
 ---
 
 **Suggested Readings:**
-- [Hebbian Learning Princile by D. Hebb, 1949](https://pure.mpg.de/rest/items/item_2346268_3/component/file_2346267/content)
 - [McCulloch-Pitts Neuron, 1943](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
+- [Hebbian Learning Princile by D. Hebb, 1949](https://pure.mpg.de/rest/items/item_2346268_3/component/file_2346267/content)
 - [Neocognitron by Fukushima, 1980](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)
 - [Backprop for training NNs by Rumelhart et al. 1986](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 - [Backprop applied to MNIST by Lecun, 1989](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
