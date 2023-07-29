@@ -1,13 +1,9 @@
 # Site settings
-course_name: Deep Learning
-course_description: "Deep Learning has lately become the driving force behind numerous high-performing AI/ML products deployed in
-real-world across diverse disciplines. Tech gaints such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
-the Deep Learning workforce in the past few years for developing a wide range of applications in Computer Vision, Natural Processing, etc.
-Hence, it has become one of the most sough after learning courses in recent times. In this predominantly theory course, we will discuss the various
-building blocks required to realize the Deep Learning based solutions."
-course_semester: "Jan-May 2023"
+course_name: Explainability in Machine Learning
+course_description: "Algorithmic decision-making is getting more prominent. Machine learning models are regularly helping us with some of the essential aspects of our lives (e.g., healthcare, banking, navigation, etc.). It is of high significance that the end-users correctly understand these models, thereby establishing trust in both the functionality and inference of these models. This new course at IIT Hyderabad introduces the basic notions of explainability and the recent advances in the emerging field of interpretability and explainability in machine learning.."
+course_semester: "July-Dec 2023"
 
-baseurl: "/dl" # the subpath of your site, e.g. /blog/
+baseurl: "/xml" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dept. of AI, IITH"
