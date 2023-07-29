@@ -1,5 +1,5 @@
 ---
-date: 2022-12-28
+date: 2022-07-29
 ---
-December 28, 2022: The course website is up!
+December 29, 2023: The course website is up!
 
