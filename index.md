@@ -1,14 +1,17 @@
 ---
 layout: home
 ---
-## (AI2100/AI5100) Deep Learning Course Contents
+## (AI51020) Explainability in Machine Learning Course Contents
 
-Starting from an artificial neuron model, the aim of this course is to understand feed forward and recurrent architectures of Artificial Neural Networks, all the way to the modern Deep Neural Networks. Specifically, we will discuss the basic Neuron models (McCulloch Pitts, Perceptron), Multi-Layer Perceptron (MLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN) (LSTM and GRU). We will understand the representational ability of these models along with how to train them using the Gradient Descent technique using the Backpropagation algorithm. Specifically, we will discuss various optimization algorithms such as Nesterov Accelerated Gradient Descent, Adam, AdaGrad and RMSProp, etc. Towards the end, students of this course get exposed to important deep learning frameworks from computer vision and Natural Language Processing such as encoder-decoder architecture, attention mechanism, etc.
+Algorithmic decision-making is getting more prominent. Machine learning models are regularly helping us with some of the essential aspects of our lives (e.g., healthcare, banking, navigation, etc.). It is of high significance that the end-users correctly understand these models, thereby establishing trust in both the functionality and inference of these models. This new course at IIT Hyderabad introduces the basic notions of explainability and the recent advances in the emerging field of interpretability and explainability in machine learning.
+
+This course aims to understand the notion of interpretability and explainability of a machine learning model. The first part details different classes of interpretable models, such as prototype-based approaches, sparse linear models, rule-based techniques, generalized additive models, etc. Later, it discusses post-hoc explanations such as black-box explanations, counterfactual explanations, saliency maps, etc. Further, the course explores the connections between interpretability, causality, debugging, bias, and fairness. Throughout the course, there will be an emphasis on multiple applications, such as criminal justice, computer vision, healthcare, etc., that can immensely benefit from model interpretability. This course involves discussing seminal and recent work that is relevant in the form of student presentations and a semester-long project.
+
 
 ## Logistics
 
-**Class Room**: A-LH-1 (02.01.2023 to 15.01.2023 & 18.02.2023 to 02.05.2023), B115 (16.01.2023 to 17.02.2023)
+**Class Room**: C-106 
 
 **Timings**: Slot-B (Monday-10:00-10:55, Wednesday-09:00-09:55, Thursday-11:00-11:55)
 
-Visit this page regularly for the updates and information regarding the course.<br>
+Visit this page regularly for updates and information regarding the course.<br>
