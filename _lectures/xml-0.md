@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-08-08
-title: (dl-0) Introduction
+title: (xml-0) Introduction
 
 # optional
 # please use /static_files/notes directory to store notes
