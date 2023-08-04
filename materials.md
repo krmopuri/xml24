@@ -6,11 +6,10 @@ permalink: /materials/
 
 <!--- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %} -->
 
-## Deep Learning
+## Explainability in ML/AI
 
-- [Deep Learning textbook by Ian Goodfellow et al.](https://www.deeplearningbook.org/)
-- [NPTEL course by Prof. Mitesh Khapra, IITM](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU)
-- [Michael Nielsen's text book on NN & DL](http://neuralnetworksanddeeplearning.com/)
-- [DL course by François Fleuret, EPFL and Uni. of Geneva](https://fleuret.org/dlc/)
-- [PyTorch](https://pytorch.org/)
+- [Book by Christoph Molner](https://christophm.github.io/interpretable-ml-book)
+- [Course by Prof. Hima](https://interpretable-ml-class.github.io/)
+- Tutorials [NerIPS-AAAI-2020-21](https://explainml-tutorial.github.io/) [CVPR-2020](https://interpretablevision.github.io/index_cvpr2020.html) [Industry](https://sites.google.com/view/explainable-ai-tutorial)
+
 
