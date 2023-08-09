@@ -27,4 +27,4 @@ links:
 ---
 
 **Suggested Readings:**
-- [Ch-3.2 - 3.6 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
+- [Ch 3.2 to 3.6 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
