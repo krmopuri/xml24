@@ -10,6 +10,9 @@ permalink: /materials/
 
 - [Book by Christoph Molner](https://christophm.github.io/interpretable-ml-book)
 - [Course by Prof. Hima](https://interpretable-ml-class.github.io/)
-- Tutorials [NerIPS-AAAI-2020-21](https://explainml-tutorial.github.io/) [CVPR-2020](https://interpretablevision.github.io/index_cvpr2020.html) [Industry](https://sites.google.com/view/explainable-ai-tutorial)
+- Tutorials [NerIPS-AAAI-2020-21](https://explainml-tutorial.github.io/), [CVPR-2020](https://interpretablevision.github.io/index_cvpr2020.html) and [Industry](https://sites.google.com/view/explainable-ai-tutorial)
 
+## ML
 
+- [Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
+- [Understanding Machine Leaning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
