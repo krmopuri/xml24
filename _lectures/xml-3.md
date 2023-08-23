@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-08-14
-title: (xml-3) Inherently Interpretable Models: GLM, GLA, DT
+title: (xml-3) Inherently Interpretable Models - GLM, GLA, DT
 
 # optional
 # please use /static_files/notes directory to store notes
@@ -19,7 +19,7 @@ links:
     #- url: /static_files/presentations/lec.zip
     #  name: notes
     #- url: /static_files/presentations/code.zip
-    #  name: codes
+    # name: codes
     - url: https://docs.google.com/presentation/d/1okARTCFCxyBZpVh-j7O_B8WLn885Hor4HWTQN7HRQTY/edit?usp=sharing
       name: slides
     #- url: /static_files/presentations/lec.zip
@@ -27,4 +27,5 @@ links:
 ---
 
 **Suggested Readings:**
+
 - [Ch 5.3 to 5.7 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
