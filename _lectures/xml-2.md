@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2023-08-10
-title: (xml-2) Linear and Logistic Regression
+title: (xml-2) Inherently Interpretable Models: Linear and Logistic Regression
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Discussion on the explainability in these inherently interpretable models"
+tldr: "Interpretability in the basic linear models"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
