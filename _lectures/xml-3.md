@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-08-14
-title: (xml-3) Inherently Interpretable Models - GLM, GLA, DT
+title: (xml-3) Inherently Interpretable Models (GLM, GLA, DT)
 
 # optional
 # please use /static_files/notes directory to store notes
