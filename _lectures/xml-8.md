@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2023-09-07
-title: (xml-8) Interpreting Neural Networks
+title: (xml-8) Interpreting Neural Networks (Feature Visualization)
 
 # optional
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Methods to understand DNNs and make them more transparent"
+tldr: "Methods to understand the units (learned) in DNNs"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
