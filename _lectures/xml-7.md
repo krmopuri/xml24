@@ -29,3 +29,4 @@ links:
 **Suggested Readings:**
 - [Counterfactual Explanations without Opening the Black Box (Harvard Journal of Law & Technology, 2018)](https://arxiv.org/abs/1711.00399)
 - [Multi-Objective Counterfactual Explanations (PPSN, 2020)](https://arxiv.org/abs/2004.11165)
+- [Counterfactuals and Causability in XAI](https://arxiv.org/pdf/2103.04244.pdf)
