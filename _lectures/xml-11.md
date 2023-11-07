@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-10-30
+date: 2023-11-6
 title: (xml-11) Causal Inference and Explainability
 
 # optional
