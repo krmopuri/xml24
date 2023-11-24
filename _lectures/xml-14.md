@@ -20,7 +20,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: static_files/presentations/AntehocCausalExplanations-Gowtham.pdf
+    - url: /static_files/presentations/AntehocCausalExplanations-Gowtham.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: other
