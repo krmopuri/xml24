@@ -8,11 +8,11 @@ title: (xml-9) Interpreting Neural Networks (Pixel Attribution)
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Highlighting the input features (e.g., pixels) that are relevant for a DNNprediction"
+tldr: "Highlighting the input features (e.g., pixels) that are relevant for a DNN prediction"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 # optional
 links: 
