@@ -12,7 +12,7 @@ tldr: "Linking Causalily (cause and effect) and Explainability in Machine learni
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 # optional
 links: 
