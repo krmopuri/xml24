@@ -1,9 +1,9 @@
 ---
 type: lecture
-date: 2023-08-09
-title: (xml-1) Taxonomy, Scope, and Evaluation of Explainability
+date: 2024-07-30
+title: (xml-1) Introduction
 
-# optional
+# optional (Taxonomy, Scope, and Evaluation of Explainability)
 # please use /static_files/notes directory to store notes
 # thumbnail: /static_files/path/to/image.jpg
 
@@ -20,7 +20,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: https://docs.google.com/presentation/d/1l8TxEmpk2IzA9AiJfgX0ilEIhcmEaT3nJ8x3xjS--N8/edit?usp=sharing
+    - url: https://docs.google.com/presentation/d/16Q6vGYCkRwyKRmrzdvdVy51qJ0So2xdvDqfYJRhO8cw/edit?usp=sharing
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: other
