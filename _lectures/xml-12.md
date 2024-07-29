@@ -8,11 +8,11 @@ title: (xml-12) Attention and Explanations
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Does the Attention mechanism provide Explanation for the model?"
+tldr: "Does the Attention mechanism provide an Explanation for the model?"
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 # optional
 links: 
