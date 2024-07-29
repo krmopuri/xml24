@@ -1,5 +1,5 @@
 ---
-date: 2022-07-29
+date: 2024-07-30
 ---
-December 29, 2023: The course website is up! (First meeting would be on the 7th of August, 2023)
+July 30, 2024: The course website is up! (First meeting would be on the 30th of July, 2024)
 
