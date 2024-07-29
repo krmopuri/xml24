@@ -12,7 +12,7 @@ tldr: "Imagining a hypothetical reality to explain predictions of individual ins
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 # optional
 links: 
