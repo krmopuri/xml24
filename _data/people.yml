@@ -1,12 +1,10 @@
-instructors:
+Instructors:
   - name: Dr Konda Reddy Mopuri
     profile_pic: /_images/pp/kr_iisc_nbh_light.jpg
     webpage: https://krmopuri.github.io
 
 
-teaching_assistants:
-  - name: Pranav K Nayak (ES20BTECH11035@iith.ac.in)
+Teaching_assistants:
+  - name: Susmit Agrawal (ai22mtech12002@iith.ac.in)
     profile_pic: /_images/pp/person.png
-  - name: Tanmay Garg (CS20BTECH11063@iith.ac.in)
-    profile_pic: /_images/pp/person.png  
-
+    webpage: https://susmit-a.github.io/
