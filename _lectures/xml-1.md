@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-07-30
-title: (xml-1) Introduction
+title: 1-Introduction
 
 # optional (Taxonomy, Scope, and Evaluation of Explainability)
 # please use /static_files/notes directory to store notes
