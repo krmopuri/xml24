@@ -3,7 +3,7 @@ course_name: Explainability in Machine Learning
 course_description: "Algorithmic decision-making is getting more prominent. Machine learning models are regularly helping us with some of the essential aspects of our lives (e.g., healthcare, banking, navigation, etc.). It is of high significance that the end-users correctly understand these models, thereby establishing trust in both the functionality and inference of these models. This new course at IIT Hyderabad introduces the basic notions of explainability and the recent advances in the emerging field of interpretability and explainability in machine learning.."
 course_semester: "July-Dec 2024"
 
-baseurl: "/xml" # the subpath of your site, e.g. /blog/
+baseurl: "/xml24" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dept. of AI, IITH"
