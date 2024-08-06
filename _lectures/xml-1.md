@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-07-30
-title: 1-Introduction
+title: (xml-1) Introduction
 
 # optional (Taxonomy, Scope, and Evaluation of Explainability)
 # please use /static_files/notes directory to store notes
@@ -27,4 +27,8 @@ links:
 ---
 
 **Suggested Readings:**
-- [Ch 3.2 to 3.6 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
+- [Ch-3.1 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
+- [Towards A Rigorous Science of Interpretable Machine Learning, Doshi-Velez and Kim, 2017](http://arxiv.org/abs/1702.08608)
+- [Interpretable machine learning: definitions, methods, and applications, Murdoch et al. 2019](https://arxiv.org/abs/1901.04592)
+- [Explanation in artificial intelligence: Insights from the social sciences, Tim Miller, 2019](https://www.sciencedirect.com/science/article/pii/S0004370218305988)
+- [Examples are not Enough, Learn to Criticize! Criticism for Interpretability, Kim et al. 2016](https://proceedings.neurips.cc/paper/2016/file/5680522b8e2bb01943234bce7bf84534-Paper.pdf)
