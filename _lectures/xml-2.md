@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-08-06
-title: 2 - Taxonomy, Scope, and Evaluation of Explainability
+title: (xml-2) Taxonomy, Scope, and Evaluation of Explainability
 
 # optional
 # please use /static_files/notes directory to store notes
