@@ -8,7 +8,7 @@ title: (xml-3) Inherently Interpretable Models (Linear and Logistic Regression)
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Interpretability in the basic linear models"
+tldr: "Models with straightforward explanations."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
@@ -28,4 +28,4 @@ links:
 
 **Suggested Readings:**
 - [Ch 3.1, 4.1 to 4.3 from Introduction to Statistical Learning](https://hastie.su.domains/ISLP/ISLP_website.pdf)
-- [Ch 3.2 to 3.6 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
+- [Ch 5 from Interpretable Machine Learning book by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
