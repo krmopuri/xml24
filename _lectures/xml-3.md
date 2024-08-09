@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-08-09
-title: (xml-3) Inherently Interpretable Models (Linear and Logistic Regression)
+title: (xml-3) Inherently Interpretable Models 
 
 # optional
 # please use /static_files/notes directory to store notes
