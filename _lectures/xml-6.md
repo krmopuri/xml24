@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-08-16
+date: 2024-08-16
 title: (xml-6) Interpreting Neural Networks (Feature Visualization)
 
 # optional
