@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-08-16
-title: (xml-7) Local Model-Agnostic Methods - Counterfactual Explanations.
+date: 2024-08-16
+title: (xml-4) Local Model-Agnostic Methods - Counterfactual Explanations.
 
 # optional
 # please use /static_files/notes directory to store notes
