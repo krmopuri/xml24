@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2023-09-03
-title: (xml-10) Interpreting Neural Networks (Concept-based Explanations)
+date: 2024-09-03
+title: (xml-8) Interpreting Neural Networks (Concept-based Explanations)
 
 # optional
 # please use /static_files/notes directory to store notes
