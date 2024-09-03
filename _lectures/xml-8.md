@@ -8,7 +8,7 @@ title: (xml-8) Interpreting Neural Networks (Concept-based Explanations)
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Learning a low-dim representation that can faithfully explain the downstream task of the DNN"
+tldr: "Learning a low-dim human-understandable representation that can explain the inference of the DNN."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
