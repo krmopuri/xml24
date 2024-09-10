@@ -20,7 +20,7 @@ links:
     #  name: notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
-    - url: [https://docs.google.com/presentation/d/1LW_PdAJM6Atsbw90bmB-FS7ZGRpunfdsE9xSCLv_poY/edit?usp=sharing](https://docs.google.com/presentation/d/1OMWZ0rGwuHrhnhu0hVj0_qYR3ouOoQWcW6r10EEjBKY/edit?usp=sharing)
+    - url: https://docs.google.com/presentation/d/1OMWZ0rGwuHrhnhu0hVj0_qYR3ouOoQWcW6r10EEjBKY/edit?usp=sharing
       name: slides
     #- url: /static_files/presentations/lec.zip
     #  name: other
