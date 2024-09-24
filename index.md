@@ -8,7 +8,7 @@ This course aims to understand the notion of interpretability and explainability
 
 ## Logistics
 
-**Class Room**: LHC-11 
+**Class Room**: LHC-12 (post 20th Sep, 2024) 
 
 **Timings**: Slot-R (Tuesday-14:30-15:55, Friday-16:00-17:25)
 
